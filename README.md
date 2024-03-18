@@ -1,2 +1,2 @@
-# Principios-de-construcci-n-de-software
+# Principios-de-construcción-de-software
 Actividades realizadas.
